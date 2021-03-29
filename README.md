@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning **Python**,**C++** and **Natural Language** techniques.
 - 📫 Reach my here on Github or on Linkedlin (nickname: chiara-rodella)
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ✨ The repositories are still work in progress ✨
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 
 <!---
 Ch-rode/Ch-rode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
