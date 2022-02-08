@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ch-rode, I am a 24 year old **Italian** girl. I have a **Bachelor** degree in Economics and a **Master** degree in Statistics and Data Analytics. I currently work as an AI & advance analytics customer advisory at **SAS Institute**. I like running and I'm a **coffee addict**.
-- 👀 I’m interested in learning more in **machine learning** and in particular in the **NLP**, **Computer Vision** but also **Applied AI** fields. I have some ideas that I would like to work on!
+- 👋 Hi, I’m Ch-rode, I am a 25 year old **Italian** girl. I have a **Bachelor** degree in Economics and a **Master** degree in Statistics and Data Analytics. I had 2 years of working experience as an AI & advance analytics customer advisory at **SAS Institute**. Now 25 I'm currently PhD student in Computational Biology. I like workout and I'm a **coffee addict**.
+- 👀 I’m interested in **machine learning** and in particular in the **NLP** and **Applied AI** fields. I have some ideas that I would like to work on!
 - 🌱 I’m currently learning **Python**,**C++** and **Natural Language Processing** and **Computer Vision** techniques.
 - 📫 Reach my here on Github or on [Linkedlin](https://www.linkedin.com/in/chiara-rodella/).
 
