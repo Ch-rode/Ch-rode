@@ -1,7 +1,7 @@
 
-- 📫 Reach me here on Github or on [Linkedlin](https://www.linkedin.com/in/chiara-rodella/).
+📫 Reach me here on Github or on [Linkedlin](https://www.linkedin.com/in/chiara-rodella/).
 
-✨ The repositories are still work in progress ✨
+
 
 
 <!---
